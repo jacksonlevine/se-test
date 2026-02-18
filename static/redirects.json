@@ -1,0 +1,27 @@
+[
+  {
+    "source": "/",
+    "target": "/index.html",
+    "status": "200"
+  },
+  {
+    "source": "/<lang>",
+    "target": "/<lang>/index.html",
+    "status": "200"
+  },
+  {
+    "source": "/auth/callback",
+    "target": "/auth/callback/index.html",
+    "status": "200"
+  },
+  {
+    "source": "/quality/coa",
+    "target": "/quality/coa/index.html",
+    "status": "200"
+  },
+  {
+    "source": "/<lang>/quality/coa",
+    "target": "/<lang>/quality/coa/index.html",
+    "status": "200"
+  }
+]

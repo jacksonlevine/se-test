@@ -1,0 +1,15 @@
+# Serophan®
+
+## Description
+A 5-HTP supplement intended to support serotonin production for mood balance and deeper sleep.
+
+## Site structure
+
+### Homepage (/)
+- Overview of serotonin's role in mood and sleep, and why 5-HTP is used as a precursor
+- Serotonin gap quiz to help assess daytime mood and nighttime sleep patterns
+- Explanation of the serotonin-to-melatonin connection surfaced in the quiz results
+- Product information, dosage options (200 mg, 400 mg), and purchasing
+
+### Quality portal (/quality/coa)
+- Batch number or QR code lookup for certificates of analysis
